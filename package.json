@@ -1,0 +1,21 @@
+{
+  "name": "React-Image-Search",
+  "version": "1.0.0",
+  "description": "Image/API search with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "cd client && npm install && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanbb88/React-Image-Search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanbb88/React-Image-Search/issues"
+  },
+  "homepage": "https://github.com/seanbb88/React-Image-Search#readme"
+}
